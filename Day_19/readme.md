@@ -34,10 +34,10 @@ b: Accessing by Class Name:
    specified class name.
 
 c: Accessing by CSS Selectors:
-   i: Single Element:
-      Method: document.querySelector(selector)
-      Description: Returns the first element matching the specified CSS 
-      selector.
+     i: Single Element:
+         Method: document.querySelector(selector)
+         Description: Returns the first element matching the specified CSS 
+         selector.
     
     ii: Multiple Elements:
         Method: document.querySelectorAll(selector)
